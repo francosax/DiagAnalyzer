@@ -1,0 +1,1 @@
+pyinstaller --clean -i ico_search.ico -F -w DiagAnalyzer.py
